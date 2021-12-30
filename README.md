@@ -1,4 +1,8 @@
-# Switch expression statement for Lua <img src="https://img.shields.io/github/license/stein197/lua-switch"/> <img src="https://img.shields.io/github/v/tag/stein197/lua-switch?label=Version"/> <img src="https://img.shields.io/luarocks/v/stein197/lua-switch"/>
+# Switch expression statement for Lua
+[![](https://img.shields.io/github/license/stein197/lua-switch)](LICENSE)
+![](https://img.shields.io/github/v/tag/stein197/lua-switch?label=Version)
+[![](https://img.shields.io/luarocks/v/stein197/lua-switch)](https://luarocks.org/modules/stein197/lua-switch)
+[![](https://img.shields.io/github/size/stein197/lua-switch/init.lua)](init.lua)
 
 This package provides simple function named "switch" which could be used to emulate switch statement which does not exist in Lua but does in other languages. It  can handle default fallback.
 
